@@ -1,0 +1,39 @@
+{% assign bio = site.data.data.bio %}
+<header class="resume-header pt-4 pt-md-0">
+  <div class="media flex-column flex-md-row">
+    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/{{ bio.avatar }}" alt="that's me">
+    <div class="media-body p-3 d-flex flex-column flex-md-row mx-auto mx-lg-0">
+      <div class="primary-info">
+        <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">{{ bio.name }}</h1>
+        <div class="title mb-3">{{ bio.title }}</div>
+        <ul class="list-unstyled">
+          <li class="mb-2"><a href="mailto:{{ bio.email }}"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>{{ bio.email }}</a></li>
+          <li class="mb-2"><a href="https://{{ bio.website }}"><i class="far fa-compass fa-fw mr-2" data-fa-transform="grow-3"></i>{{ bio.website }}</a></li>
+          <li><a href="tel:{{ bio.telephone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ bio.telephone }}</a></li>
+        </ul>
+      </div><!--//primary-info-->
+      <div class="secondary-info ml-md-auto mt-2">
+        <ul class="resume-social list-unstyled">
+          {% if bio.linkedin %}
+          <li class="mb-3"><a href="https://linkedin.com/in/{{ bio.linkedin }}"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/{{ bio.linkedin }}</a></li>
+          {% endif %}
+          {% if bio.github %}
+          <li class="mb-3"><a href="https://github.com/{{ bio.github }}"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/{{ bio.github }}</a></li>
+          {% endif %}
+          {% if bio.gitlab %}
+          <li class="mb-3"><a href="https://gitlab.com/{{ bio.gitlab }}"><span class="fa-container text-center mr-2"><i class="fab fa-gitlab fa-fw"></i></span>gitlab.com/{{ bio.gitlab }}</a></li>
+          {% endif %}
+          {% if bio.facebook %}
+          <li class="mb-3"><a href="https://facebook.com/{{ bio.facebook }}"><span class="fa-container text-center mr-2"><i class="fab fa-facebook fa-fw"></i></span>facebook.com/{{ bio.facebook }}</a></li>
+          {% endif %}
+          {% if bio.twitter %}
+          <li class="mb-3"><a href="https://twitter.com/@{{ bio.twitter }}"><span class="fa-container text-center mr-2"><i class="fab fa-twitter fa-fw"></i></span>@{{ bio.twitter }}</a></li>
+          {% endif %}
+          {% if bio.stackoverflow%}
+          <li><a href="https://stackoverflow.com/users/{{ bio.stackoverflow }}"><span class="fa-container text-center mr-2"><i class="fab fa-stack-overflow"></i></span>{{ bio.stackoverflow }}</a></li>
+          {% endif %}
+        </ul>
+      </div><!--//secondary-info-->
+    </div><!--//media-body-->
+  </div><!--//media-->
+</header>

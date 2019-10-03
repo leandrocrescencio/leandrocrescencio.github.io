@@ -1,0 +1,20 @@
+{% assign organizations = site.data.data.organizations %}
+{% if organizations %}
+<section class="resume-section education-section mb-5">
+  <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Organizations</h2>
+  <div class="resume-section-content">
+    <ul class="list-unstyled">
+      {% for organization in organizations %}
+      <li class="mb-2">
+        <div class="resume-degree font-weight-bold">
+          {% if organization.link %}<a href="{{ organization.link }}">{% endif%}
+          {{ organization.name }}
+          {% if organization.link %}</a>{% endif%}
+        </div>
+        <div class="resume-degree-org">since {{ organization.date }}</div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}

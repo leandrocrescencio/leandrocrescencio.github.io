@@ -1,0 +1,16 @@
+{% assign interests = site.data.data.interests %}
+{% if interests %}
+<section class="resume-section interests-section mb-5">
+  <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
+  <div class="resume-section-content">
+    <ul class="list-unstyled">
+    {% for interest in interests %}
+      <li>
+        {% if interest.icon %}<i class="mr-1 {{ interest.icon }}"></i>{% endif %}
+        {{ interest.name }}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}

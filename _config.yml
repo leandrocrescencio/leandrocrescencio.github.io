@@ -1,0 +1,16 @@
+title: Leandro Crescencio - QA Automation Engineer
+
+# Theme primary chooses
+cello: &cello "#434E5E"
+curious_blue: &curious_blue "#3582C4"
+eucalyptus: &eucalyptus "#22A162"
+scooter: &scooter "#328998"
+governor_bay: &governor_bay "#59578E"
+cosmic: &cosmic "#80425F"
+
+theme_color: *cello
+description: Leandro Crescencio - QA Automation Engineer - Resume
+repository: leandrocrescencio/leandrocrescencio.github.io
+
+sass:
+  style: compact

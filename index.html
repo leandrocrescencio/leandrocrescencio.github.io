@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include bio.html %}
+
+<div class="resume-body p-5">
+	{% include summary.html %}
+
+	<div class="row">
+    <!-- Work History -->
+		<div class="col-lg-9">
+      {% include history.html %}
+    </div>
+    <!-- Sidebar -->
+    <div class="col-lg-3">
+      {% include skills.html%}
+      {% include education.html %}
+      {% include awards.html %}
+      {% include languages.html %}
+      {% include interests.html %}
+      {% include organizations.html %}
+    </div>
+	</div>
+</div>

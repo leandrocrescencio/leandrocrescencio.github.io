@@ -1,0 +1,308 @@
+bio:
+  name: Leandro Crescencio
+  title: QA Automation Engineer
+  avatar: profile.jpg
+  email: leandrocrescencio@gmail.com
+  telephone: +55 51 981017120
+  website: http://leandrocrescencio.github.io/
+  linkedin: leandrocrescencio
+  github: leandrocrescencio
+  gitlab: leandrocrescencio
+  twitter: crescemoreira
+  facebook: leandrocrescencio
+  stackoverflow: 
+
+summary:
+  title: Profile
+  description: |
+    Professional with 8+ years of experience with an emphasis on software quality, working with automated and manual testing, from specification to execution.
+    Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager, Team Foundation Server. 
+    Bug analytic reports and root cause analysis for metrics and team improvements.
+    Able to work as an independent and in global distributed team environments.
+    Highly motivated and enthusiastic in the Agile/Scrum and Iterative software development process.
+    Solid experience in teams from the financial sector.
+
+history:
+  title: Experience
+  roles:
+    - position: Senior QA Automation Engineer
+      company: Codelink US
+      location: Porto Alegre, BR
+      time: 03-2019 – Present
+      description: |
+         - Working remote along teams from US and Australia.
+         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS
+         - Automation tests using Java and Selenium Webdriver.
+         - Back-end and UI tests.
+         - Test and Defect Project Management.
+
+      achivements: |
+        * Complete framework for the responsible applications from the product.
+
+      technologies:
+        - name: Java
+        - name: Selenium Webdriver
+        - name: MySQL
+        - name: GIT
+        - name: Gradle
+        - name: RestAssured
+        - name: TestNG
+
+    - position: Senior Test Analyst
+      # page_break: true
+      company: Datum TI
+      location: Porto Alegre, BR
+      time: 01-2019 - 03-2019
+      description: |
+         - Acting as a Test Architect for the software projects inside the company.
+         - Assisting in the definition of the strategy for test teams, implementation of testing tools and automation tools. Clients mostly from the financial sector.
+         - Specification of Plans, Scenarios, and Test Cases. 
+         - Creation and execution of software tests. 
+         - Automation tests for SOA/Rest services, and UI automation.
+         - Test and Defect Project Management.
+         - Planning and estimation of demands. 
+         - Automation testing using Soap UI and RestAssured (for backend and integration)
+         - Planning and execution of performance and load tests.
+
+      technologies:
+        - name: Java
+        - name: Soap UI
+        - name: RestAssured
+        - name: Oracle
+        - name: SQL Server
+        - name: Selenium Webdriver
+        - name: TestNG
+        - name: JUnit
+        - name: Maven
+        - name: Jira
+
+    - position: QA Automation Analyst
+      company: DBSERVER
+      location: Porto Alegre, RS
+      time: 10-2016 – 01-2019
+      description: |
+         - Outsourcing at: Bank Sicredi (Accounts Agile Team)
+         - Agile Methods, SCRUM, LEAN, Kanban and all related ceremonies.
+         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for applications developed in Clipper and Java (Web and Services). 
+         - Automation tests for SOA/Rest services, and automation of functional tests for the financial core system and some WEB applications.
+         - Test and Defect Project Management.
+         - Planning and estimation of demands.
+         - Automation testing in Java (for clipper applications).
+         - Automation testing in Java plus Selenium (for web applications).
+         - Maintenance for the RFT framework. 
+         - Automation testing using Soap UI and RestAssured (for backend and integration)
+
+      achivements: |
+        * Complete framework for Clipper applications using Java (Sikuli + AutoIt)
+        * Member of the DevOps team as automation coach for new teams.
+
+      technologies:
+        - name: Java
+        - name: Soap UI
+        - name: RestAssured
+        - name: Oracle
+        - name: PL/SQL
+        - name: Selenium Webdriver
+        - name: TestNG
+        - name: JUnit
+        - name: Maven
+        - name: Sikuli
+        - name: AutoIT
+        - name: GIT
+        - name: ODI
+        - name: RFT
+        - name: VirtualBox
+        - name: Subversion
+        - name: RQM
+        - name: RTC
+
+    - position: QA Automation Analyst
+      company: DBSERVER
+      location: Porto Alegre, RS
+      time: 11-2015 – 10-2016
+      description: |
+        - Outsourcing at: Dell DFS (Dell Financial Services) 
+        - Risk Management - Credit and Fraud Team
+        - Agile Methods, SCRUM, SAFe and all related ceremonies.
+        - Specification of Plans, Scenarios and Test Cases. Creation and execution of software tests for applications developed in .Net, PL/SQL, Oracle, SOAP e REST.
+        - Expertise with the Test Lead role, for some legislative projects.
+        - Support UAT team for post-deployment issues.
+        - Able to work to a high degree of details
+        - Test and Defect Project Management.
+        - Planning and estimation of demands.
+        - Automation testing in C# (SOA services integration). 
+        - Maintenance into the Soap UI automation and migrate it to C#.
+        
+      technologies:
+        - name: C#
+        - name: Soap UI
+        - name: Oracle
+        - name: SQL Server
+        - name: Selenium Webdriver
+        - name: JUnit
+        - name: TOAD
+        - name: Sikuli
+        - name: AutoIT
+        - name: TFS
+        - name: MTM
+        - name: Visual Studio
+        - name: ADEPT
+        
+    - position: QA Analyst
+      company: BANK AGIPLAN (AGIBANK)
+      location: Porto Alegre, RS  
+      time: 11-2014 – 11-2015
+      description: |
+        - Technical Test Team Leader. 
+        - Responsible for allocation the QA team members through the backlog tasks. 
+        - Planning, Design, specification, and execution of scenarios, testing plan and test cases for applications developed in GeneXus, .Net, SQL Server, PostgreSQL, SSiS/ETL, CSS, JavaScript, SOAP, Telecom projects (URA and AVAYA), Information Security and networks projects. 
+        - Test and Defect Project Management. 
+        - ITIL Change Management, experience at coordination the deliverables from QA team to production.
+        - Successfully worked with the change management team to ensure all compliance documents, builds, artifacts, and sign-off are obtained before deployment.
+        - Responsible for the first POC of automation testing with C# and Selenium to test web applications.
+        - Responsible for the management and configuration of tests environments.
+          
+      technologies:
+        - name: Postman
+        - name: Soap UI
+        - name: Oracle
+        - name: SQL Server
+        - name: Selenium Webdriver
+        - name: C#
+        - name: Visual Studio
+        - name: Mantis
+        - name: TestLink
+
+    - position:  Software Test Analyst
+      company: DBSERVER
+      location: Porto Alegre, RS  
+      time: 07-2013 – 11-2014
+      description: |
+        - Outsourcing at: Bank Banrisul - Software Quality Implementation. 
+        - Test leader of the Financials Services and Core Banking team. 
+        - Responsible for allocation the QA team members through the backlog tasks.
+        - Support the HR area in interviews and evaluation from candidates.
+        - Test Project Management (Planning and Estimation) 
+        - Test Backlog management
+        - Planning, specification, and execution of scenarios, testing plans and test cases. 
+        - Responsible for the management and configuration of tests environments (servers, ATM, TM, accounts, cards, others.)
+        - Responsible for monitoring and maintaining quality and compliance target for software testing
+        - Responsible for attending requirements meetings and support business user
+        - Test data generation. 
+        
+      technologies:
+       - name: Mantis
+       - name: TestLink
+       - name: Sharepoint
+       - name: Subversion
+
+    - position:  Development Analyst
+      company: VIAFLOW
+      location: Porto Alegre, RS  
+      time: 08-2011 – 07-2013
+      description: |
+        - Software development of solutions with IBM Lotus Notes and Domino Software.
+        - Software development focused on Java-web, using Java/JSP and Javascript.
+        - User-Interfaces development and software modeling.
+        - Development and maintenance of workflows applications using LotusScript and Visual Basic.
+        - Business analysis to support vendor of IBM software such as IBM Content Collector, IBM eDiscovery Solutions, responsible for training and mentoring (knowledge transfer) to clients.
+        - Internal process work, creation, and maintenance of commercial and administrative reports from the company (CRM, payroll, hours management, etc.)
+        - Tester (designated developer) 
+          - Planning, Design, specification, and execution of scenarios, testing plan and test cases, Functional Testing, Usability Testing, Acceptance Testing, Interface and security tests. Automation testing (migration e-mails to the cloud).
+          -	Document / Artifact creation and maintenance (scenarios, test cases, plans, metrics, and estimates) using Quickr with SVN as the repository.
+          - Elaboration of Defect Reports, Metric Reports, and Incidents Reports. 
+
+      achivements: |
+        * Certification - IBM Lotus Notes & Domino Technical Sales Professional v2 (2013)
+         
+      technologies:
+       - name: Java
+       - name: Java EE
+       - name: JSP
+       - name: JavaScript
+       - name: VBScript
+       - name: LotusScript
+       - name: Lotus Notes
+       - name: Lotus Domino
+       - name: DBMS
+       - name: SQL Server
+       - name: Subversion
+       - name: CVS
+       
+
+
+
+skills:
+  frontend:
+    - name: Selenium WebDriver
+      percentage: 99
+    - name: Protractor
+      percentage: 50
+    - name: Cucumber
+      percentage: 50
+      
+  backend:
+    - name: Java
+      percentage: 80
+    - name: RestAssured
+      percentage: 90
+    - name: Soap UI
+      percentage: 99
+    - name: PostMan
+      percentage: 85
+    - name: SQL
+      percentage: 90
+    - name: Ruby
+      percentage: 30
+    - name: C#
+      percentage: 75
+
+  other:
+    - name: Ubuntu Linux
+    - name: Windows 10
+    - name: JIRA
+    - name: Scrum
+    - name: SAFE
+    
+awards:
+  - name: ISTQB-CTFL
+    description: |
+      License 17-CTFL-06073-BR
+  - name: Scrum Alliance CSM
+    description: License 000635683
+
+
+education:
+  - degree: MSc in Computer Science
+    name: University of Santa Maria
+    time: 2009 - 2011 [Unfinished]
+  - degree: BSc in Computer Science
+    name: UNIFRA
+    time: 2005 - 2008
+
+languages:
+  - name: Portuguese
+    proficiency: Native
+  - name: English
+    proficiency: Professional
+    
+
+interests:
+  - name: Animals
+    icon: fas fa-paw
+  - name: Music
+    icon: fas fa-drum
+  - name: Cooking
+    icon: fas fa-utensils
+  - name: Beer
+    icon: fas fa-beer
+
+
+organizations:
+  - name: ISTQB
+    link: https://www.istqb.org
+    date: 2017
+
+  - name: Scrum Alliance
+    link: https://www.scrumalliance.org/
+    date: 2017
