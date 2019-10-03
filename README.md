@@ -36,8 +36,10 @@
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 
+<br />
+<br />
 
-#### Feel free to fork this and change at your own :)
+## Feel free to fork this and change at your own :)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
