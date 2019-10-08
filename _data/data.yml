@@ -230,36 +230,48 @@ history:
        - name: CVS
        
 
-
-
 skills:
-  frontend:
+  testing:
     - name: Selenium WebDriver
       percentage: 99
-    - name: Protractor
-      percentage: 50
-    - name: Cucumber
-      percentage: 50
-      
-  backend:
-    - name: Java
-      percentage: 80
     - name: RestAssured
       percentage: 90
     - name: Soap UI
       percentage: 99
-    - name: PostMan
-      percentage: 85
-    - name: SQL
-      percentage: 90
-    - name: Ruby
-      percentage: 30
+    - name: Appium
+      percentage: 70
+    - name: Cucumber
+      percentage: 60
+  
+  languages:
+    - name: Java
+      percentage: 80
     - name: C#
-      percentage: 75
+      percentage: 70
+    - name: Groovy
+      percentage: 60
+    - name: Ruby
+      percentage: 40
+  
+  ci:
+    - name: Jenkins
+      percentage: 80
+    - name: TeamCity
+      percentage: 40 
 
+  database:
+    - name: Oracle
+      percentage: 90
+    - name: SQL Server
+      percentage: 90
+    - name: MySql
+      percentage: 80
+  
   other:
-    - name: Ubuntu Linux
     - name: Windows 10
+    - name: Linux Ubuntu
+    - name: Gradle
+    - name: Maven
     - name: JIRA
     - name: Scrum
     - name: SAFE
