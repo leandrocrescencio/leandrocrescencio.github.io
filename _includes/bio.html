@@ -32,6 +32,13 @@
           {% if bio.stackoverflow%}
           <li><a href="https://stackoverflow.com/users/{{ bio.stackoverflow }}"><span class="fa-container text-center mr-2"><i class="fab fa-stack-overflow"></i></span>{{ bio.stackoverflow }}</a></li>
           {% endif %}
+          {% if bio.skype%}
+          <li>
+              {% if bio.calendly%}<a href="https://calendly.com/{{ bio.calendly }}"> {% endif %}
+              <span class="fa-container text-center mr-2"><i class="fab fa-skype"></i></span>@{{ bio.skype }}
+              {% if bio.calendly%}</a> {% endif %}
+          </li>
+          {% endif %}
         </ul>
       </div><!--//secondary-info-->
     </div><!--//media-body-->
