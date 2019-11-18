@@ -16,12 +16,13 @@ bio:
 summary:
   title: Profile
   description: |
-    Professional with 8+ years of experience with an emphasis on software quality, working with automated and manual testing, from specification to execution.
-    Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager, Team Foundation Server. 
+    Quality Assurance Engineer working with Testing/developing/Devops and Agile Methodologies. Professional with 8+ years of experience working with automated and manual testing, from specification to execution.
+    Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager and Team Foundation Server. 
     Bug analytic reports and root cause analysis for metrics and team improvements.
-    Able to work as an independent and in global distributed team environments.
+    Ability to work onsite or remotely in global distributed team environments.
     Highly motivated and enthusiastic in the Agile/Scrum and Iterative software development process.
     Solid experience in teams from the financial sector.
+
 history:
   title: Experience
   roles:
@@ -30,8 +31,8 @@ history:
       location: Porto Alegre, BR
       time: 03-2019 – Present
       description: |
-         - Working remote along teams from US and Australia.
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS
+         - Working remote along teams from US (Digital Product Labs) and Australia (Tabcorp). 
+         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS and Groovy
          - Automation tests using Java and Selenium Webdriver.
          - Back-end and UI tests.
          - Test and Defect Project Management.
@@ -39,12 +40,19 @@ history:
         - name: Java
         - name: Selenium Webdriver
         - name: MySQL
+        - name: JavaMail Api
+        - name: TestNG
         - name: GIT
         - name: Gradle
         - name: RestAssured
-        - name: TestNG
+        - name: AWS Console
+        - name: TeamCity
+
+
       achivements: |
-        * Complete framework for the responsive applications from the product.
+        * Complete automation framework for the responsive channels from the product (Play4Purpose).
+
+
     - position: Senior Test Analyst
       company: Datum TI
       location: Porto Alegre, BR
@@ -70,6 +78,8 @@ history:
         - name: JUnit
         - name: Maven
         - name: Jira
+
+
     - position: QA Automation Analyst
       company: DBSERVER
       location: Porto Alegre, RS
@@ -105,8 +115,10 @@ history:
         - name: RQM
         - name: RTC
       achivements: |
-         * Complete framework for Clipper applications using Java (Sikuli + AutoIt)
+         * Complete automation framework for Clipper applications using Java (Sikuli + AutoIt)
          * Member of the DevOps team as automation coach for new teams.
+
+
     - position: QA Automation Analyst
       company: DBSERVER
       location: Porto Alegre, RS
@@ -125,18 +137,18 @@ history:
         - Maintenance into the Soap UI automation and migrate it to C#.
       technologies:
         - name: C#
+        - name: Groovy
         - name: Soap UI
         - name: Oracle
         - name: SQL Server
         - name: Selenium Webdriver
         - name: JUnit
         - name: TOAD
-        - name: Sikuli
-        - name: AutoIT
         - name: TFS
         - name: MTM
         - name: Visual Studio
         - name: ADEPT
+
     - position: QA Analyst
       company: BANK AGIPLAN (AGIBANK)
       location: Porto Alegre, RS  
@@ -155,11 +167,12 @@ history:
         - name: Soap UI
         - name: Oracle
         - name: SQL Server
-        - name: Selenium Webdriver
         - name: C#
+        - name: Selenium Webdriver
         - name: Visual Studio
         - name: Mantis
         - name: TestLink
+
     - position:  Software Test Analyst
       company: DBSERVER
       location: Porto Alegre, RS  
@@ -210,7 +223,8 @@ history:
        - name: Subversion
        - name: CVS
       achivements: |
-        * Certification - IBM Lotus Notes & Domino Technical Sales Professional v2 (2013)   
+        * Certification - IBM Lotus Notes & Domino Technical Sales Professional v2 (2013)  
+
 skills:
   testing:
     - name: Selenium WebDriver
@@ -220,9 +234,9 @@ skills:
     - name: Soap UI
       percentage: 98
     - name: Cypress.io
-      percentage: 60
+      percentage: 50
     - name: Appium
-      percentage: 60
+      percentage: 50
     - name: Cucumber
       percentage: 50
   languages:
@@ -231,11 +245,11 @@ skills:
     - name: C#
       percentage: 70
     - name: Javascript
-      percentage: 65
+      percentage: 55
     - name: Groovy
-      percentage: 60
+      percentage: 55
     - name: Ruby
-      percentage: 40
+      percentage: 30
   ci:
     - name: Jenkins
       percentage: 80
@@ -256,6 +270,7 @@ skills:
     - name: JIRA
     - name: Scrum
     - name: SAFE
+
 awards:
   - name: ISTQB-CTFL
     description: |
