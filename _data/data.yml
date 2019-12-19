@@ -27,9 +27,33 @@ history:
   title: Experience
   roles:
     - position: Senior QA Automation Engineer
+      company: Integritas Solutions, Inc
+      location: Remote
+      time: 11-2019 – Present
+      description: |
+         - Working remote along teams from US (TailWind and Periscope Holdings)
+         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications.
+         - Automation tests using Cucumber, Java, Selenium Webdriver and Karate.
+         - Back-end and UI tests.
+         - Test and Defect Project Management.
+      technologies:
+        - name: Cucumber
+        - name: Java
+        - name: Selenium Webdriver
+        - name: Karate API
+        - name: JUnit
+        - name: GIT
+        - name: BitBucket
+        - name: Maven
+        - name: AWS Console
+        - name: Jenkis
+        - name: Jira
+        - name: Confluence
+
+    - position: Senior QA Automation Engineer
       company: Codelink US
-      location: Porto Alegre, BR
-      time: 03-2019 – Present
+      location: Remote
+      time: 03-2019 – 10-2019
       description: |
          - Working remote along teams from US (Digital Product Labs) and Australia (Tabcorp). 
          - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS and Groovy
@@ -238,7 +262,7 @@ skills:
     - name: Appium
       percentage: 50
     - name: Cucumber
-      percentage: 50
+      percentage: 70
   languages:
     - name: Java
       percentage: 85
