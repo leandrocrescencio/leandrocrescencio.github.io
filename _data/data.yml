@@ -16,7 +16,7 @@ bio:
 summary:
   title: Profile
   description: |
-    Quality Assurance Engineer working with Testing/developing/Devops and Agile Methodologies. Professional with 8+ years of experience working with automated and manual testing, from specification to execution.
+    Quality Assurance Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 8+ years of experience working with automated and manual testing, from specification to execution.
     Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager and Team Foundation Server. 
     Bug analytic reports and root cause analysis for metrics and team improvements.
     Ability to work onsite or remotely in global distributed team environments.
@@ -31,15 +31,17 @@ history:
       location: Remote
       time: 11-2019 – Present
       description: |
-         - Working remote along teams from US (TailWind and Periscope Holdings)
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications.
-         - Automation tests using Cucumber, Java, Selenium Webdriver and Karate.
-         - Back-end and UI tests.
+         - Working remote along with teams from the US (TailWind and Periscope Holdings)
+         - Responsible for developing automated test cases in Java using Cucumber, Selenium Webdriver, and Karate.
+         - Back-end and UI test automation
+         - Using Jenkins for continuous Integration (DigitalOcean + Docker)
          - Test and Defect Project Management.
+         - Provide technical support to the team by including sharing knowledge on automation features.
       technologies:
         - name: Cucumber
         - name: Java
         - name: Selenium Webdriver
+        - name: Grid
         - name: Karate API
         - name: JUnit
         - name: GIT
@@ -47,8 +49,10 @@ history:
         - name: Maven
         - name: AWS Console
         - name: Jenkis
+        - name: Docker
         - name: Jira
         - name: Confluence
+        - name: PostgreSQL
 
     - position: Senior QA Automation Engineer
       company: Codelink US
