@@ -37,7 +37,7 @@ history:
          - Using Jenkins for continuous Integration (DigitalOcean + Docker)
          - Test and Defect Project Management.
          - Provide technical support to the team by including sharing knowledge on automation features.
-         - Acting in security testing projects using OWASP (ZAP)
+         - Acting in security testing projects using OWASP (ZAP).
       technologies:
         - name: Cucumber
         - name: Java
