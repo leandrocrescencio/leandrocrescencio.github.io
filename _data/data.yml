@@ -37,6 +37,7 @@ history:
          - Using Jenkins for continuous Integration (DigitalOcean + Docker)
          - Test and Defect Project Management.
          - Provide technical support to the team by including sharing knowledge on automation features.
+         - Acting in security testing projects using OWASP (ZAP)
       technologies:
         - name: Cucumber
         - name: Java
@@ -53,6 +54,8 @@ history:
         - name: Jira
         - name: Confluence
         - name: PostgreSQL
+        - name: MySQL
+        - name: Owasp ZAP
 
     - position: Senior QA Automation Engineer
       company: Codelink US
@@ -259,25 +262,25 @@ skills:
       percentage: 98
     - name: RestAssured
       percentage: 98
+    - name: Cucumber
+      percentage: 98
     - name: Soap UI
       percentage: 98
     - name: Cypress.io
       percentage: 50
     - name: Appium
       percentage: 50
-    - name: Cucumber
-      percentage: 70
   languages:
     - name: Java
-      percentage: 85
+      percentage: 90
     - name: C#
       percentage: 70
     - name: Javascript
-      percentage: 55
+      percentage: 70
     - name: Groovy
       percentage: 55
     - name: Ruby
-      percentage: 30
+      percentage: 40
   ci:
     - name: Jenkins
       percentage: 80
