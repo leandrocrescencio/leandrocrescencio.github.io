@@ -3,7 +3,7 @@ bio:
   title: QA Automation Engineer
   avatar: profile.jpg
   email: leandrocrescencio@gmail.com
-  telephone: +55 51 981017120
+  telephone: +34 666 022 346
   website: leandrocrescencio.github.io/
   linkedin: leandrocrescencio
   github: leandrocrescencio
@@ -26,10 +26,34 @@ summary:
 history:
   title: Experience
   roles:
+    - position: Senior QA Engineer
+      company: CIKLUM
+      location: Malaga, Spain
+      time: 12-2020 – Present
+      description: |
+         - Part of the Lottoland team (Lotteries Domain)
+         - Working with self contained systems
+         - Back-end automation for unit and integration tests
+         - Test and Defect Project Management.
+      technologies:
+        - name: Java
+        - name: Selenium Webdriver
+        - name: Grid
+        - name: JUnit
+        - name: GIT
+        - name: Maven
+        - name: TeamCity
+        - name: Jira
+        - name: Confluence
+        - name: DataDog
+        - name: Kafka
+        - name: Postman
+        - name: MongoDB
+
     - position: Senior QA Automation Engineer
-      company: Integritas Solutions, Inc
+      company: INTEGRITAS SOLUTIONS, INC
       location: Remote
-      time: 11-2019 – Present
+      time: 11-2019 – 11-2020
       description: |
          - Working remote along with teams from the US (TailWind and Periscope Holdings)
          - Responsible for developing automated test cases in Java using Cucumber, Selenium Webdriver, and Karate.
@@ -58,7 +82,7 @@ history:
         - name: Owasp ZAP
 
     - position: Senior QA Automation Engineer
-      company: Codelink US
+      company: CODELINK US
       location: Remote
       time: 03-2019 – 10-2019
       description: |
@@ -85,8 +109,8 @@ history:
 
 
     - position: Senior Test Analyst
-      company: Datum TI
-      location: Porto Alegre, BR
+      company: DATUM TI
+      location: Porto Alegre, Brazil
       time: 01-2019 - 03-2019
       description: |
          - Acting as a Test Architect for the software projects inside the company.
@@ -113,7 +137,7 @@ history:
 
     - position: QA Automation Analyst
       company: DBSERVER
-      location: Porto Alegre, RS
+      location: Porto Alegre, Brazil
       time: 10-2016 – 01-2019
       description: |
          - Outsourcing at: Bank Sicredi (Accounts Agile Team)
@@ -152,7 +176,7 @@ history:
 
     - position: QA Automation Analyst
       company: DBSERVER
-      location: Porto Alegre, RS
+      location: Porto Alegre, Brazil
       time: 11-2015 – 10-2016
       description: |
         - Outsourcing at: Dell DFS (Dell Financial Services) 
@@ -182,7 +206,7 @@ history:
 
     - position: QA Analyst
       company: BANK AGIPLAN (AGIBANK)
-      location: Porto Alegre, RS  
+      location: Porto Alegre, Brazil  
       time: 11-2014 – 11-2015
       description: |
         - Technical Test Team Leader. 
@@ -206,7 +230,7 @@ history:
 
     - position:  Software Test Analyst
       company: DBSERVER
-      location: Porto Alegre, RS  
+      location: Porto Alegre, Brazil  
       time: 07-2013 – 11-2014
       description: |
         - Outsourcing at: Bank Banrisul - Software Quality Implementation. 
@@ -227,7 +251,7 @@ history:
        - name: Subversion
     - position:  Development Analyst
       company: VIAFLOW
-      location: Porto Alegre, RS  
+      location: Porto Alegre, Brazil  
       time: 08-2011 – 07-2013
       description: |
         - Software development of solutions with IBM Lotus Notes and Domino Software.
@@ -285,7 +309,7 @@ skills:
     - name: Jenkins
       percentage: 80
     - name: TeamCity
-      percentage: 40 
+      percentage: 70 
   database:
     - name: Oracle
       percentage: 90
@@ -293,6 +317,8 @@ skills:
       percentage: 90
     - name: MySql
       percentage: 90
+    - name: MongoDB
+      percentage: 60
   other:
     - name: Windows 10
     - name: Linux Ubuntu
