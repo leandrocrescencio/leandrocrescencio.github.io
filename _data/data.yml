@@ -29,12 +29,12 @@ history:
     - position: Senior QA Engineer
       company: CIKLUM
       location: Malaga, Spain
-      time: 12-2020 – Present
+      time: 11-2020 – Present
       description: |
          - Part of the Lottoland team (Lotteries Domain)
          - Working with self contained systems
          - Back-end automation for unit and integration tests
-         - Test and Defect Project Management.
+         - Test and Defect Project Management
       technologies:
         - name: Java
         - name: Selenium Webdriver
@@ -53,7 +53,7 @@ history:
     - position: Senior QA Automation Engineer
       company: INTEGRITAS SOLUTIONS, INC
       location: Remote
-      time: 11-2019 – 11-2020
+      time: 11-2019 – 10-2020
       description: |
          - Working remote along with teams from the US (TailWind and Periscope Holdings)
          - Responsible for developing automated test cases in Java using Cucumber, Selenium Webdriver, and Karate.
