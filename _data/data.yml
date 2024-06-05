@@ -16,7 +16,7 @@ bio:
 summary:
   title: Profile
   description: |
-    Quality Assurance Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 8+ years of experience working with automated and manual testing, from specification to execution.
+    Quality Assurance Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 10+ years of experience working with automated and manual testing, from specification to execution.
     Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager and Team Foundation Server. 
     Bug analytic reports and root cause analysis for metrics and team improvements.
     Ability to work onsite or remotely in global distributed team environments.
@@ -26,13 +26,38 @@ summary:
 history:
   title: Experience
   roles:
+      - position: Senior QA Engineer
+      company: SABER.TECH
+      location: Málaga, Spain
+      time: 07-2023 – Present
+      description: |
+         - Part of the Lotto Group, member of Lottoland
+         - Working with self-contained systems
+         - Back-end automation for unit and integration tests
+         - Test and Defect Project Management
+      technologies:
+        - name: Java
+        - name: Selenium Webdriver
+        - name: Grid
+        - name: JUnit
+        - name: GIT
+        - name: Maven
+        - name: TeamCity
+        - name: Jira
+        - name: Confluence
+        - name: DataDog
+        - name: Kafka
+        - name: AWS
+        - name: Postman
+        - name: MongoDB
+        
     - position: Senior QA Engineer
       company: CIKLUM
-      location: Malaga, Spain
-      time: 11-2020 – Present
+      location: Málaga, Spain
+      time: 11-2020 – 07-2023
       description: |
          - Part of the Lottoland team (Lotteries Domain)
-         - Working with self contained systems
+         - Working with self-contained systems
          - Back-end automation for unit and integration tests
          - Test and Defect Project Management
       technologies:
@@ -49,16 +74,17 @@ history:
         - name: Kafka
         - name: Postman
         - name: MongoDB
+        - name: AWS
 
     - position: Senior QA Automation Engineer
       company: INTEGRITAS SOLUTIONS, INC
       location: Remote
       time: 11-2019 – 10-2020
       description: |
-         - Working remote along with teams from the US (TailWind and Periscope Holdings)
+         - Working remotely along with teams from the US (TailWind and Periscope Holdings)
          - Responsible for developing automated test cases in Java using Cucumber, Selenium Webdriver, and Karate.
          - Back-end and UI test automation
-         - Using Jenkins for continuous Integration (DigitalOcean + Docker)
+         - Using Jenkins for Continuous Integration (DigitalOcean + Docker)
          - Test and Defect Project Management.
          - Provide technical support to the team by including sharing knowledge on automation features.
          - Acting in security testing projects using OWASP (ZAP).
@@ -140,7 +166,7 @@ history:
       location: Porto Alegre, Brazil
       time: 10-2016 – 01-2019
       description: |
-         - Outsourcing at: Bank Sicredi (Accounts Agile Team)
+         - Outsourcing at Bank Sicredi (Accounts Agile Team)
          - Agile Methods, SCRUM, LEAN, Kanban and all related ceremonies.
          - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for applications developed in Clipper and Java (Web and Services). 
          - Automation tests for SOA/Rest services, and automation of functional tests for the financial core system and some WEB applications.
@@ -179,13 +205,13 @@ history:
       location: Porto Alegre, Brazil
       time: 11-2015 – 10-2016
       description: |
-        - Outsourcing at: Dell DFS (Dell Financial Services) 
+        - Outsourcing at Dell DFS (Dell Financial Services) 
         - Risk Management - Credit and Fraud Team
         - Agile Methods, SCRUM, SAFe and all related ceremonies.
         - Specification of Plans, Scenarios and Test Cases. Creation and execution of software tests for applications developed in .Net, PL/SQL, Oracle, SOAP e REST.
         - Expertise with the Test Lead role, for some legislative projects.
-        - Support UAT team for post-deployment issues.
-        - Able to work to a high degree of details
+        - Support the UAT team for post-deployment issues.
+        - Able to work to a high degree of detail
         - Test and Defect Project Management.
         - Planning and estimation of demands.
         - Automation testing in C# (SOA services integration). 
@@ -210,13 +236,13 @@ history:
       time: 11-2014 – 11-2015
       description: |
         - Technical Test Team Leader. 
-        - Responsible for allocation the QA team members through the backlog tasks. 
-        - Planning, Design, specification, and execution of scenarios, testing plan and test cases for applications developed in GeneXus, .Net, SQL Server, PostgreSQL, SSiS/ETL, CSS, JavaScript, SOAP, Telecom projects (URA and AVAYA), Information Security and networks projects. 
+        - Responsible for the allocation of QA members through the backlog tasks. 
+        - Planning, Design, specification, and execution of scenarios, testing plans and test cases for applications developed in GeneXus, .Net, SQL Server, PostgreSQL, SSiS/ETL, CSS, JavaScript, SOAP, Telecom projects (URA and AVAYA), Information Security and networks projects. 
         - Test and Defect Project Management. 
-        - ITIL Change Management, experience at coordination the deliverables from QA team to production.
-        - Successfully worked with the change management team to ensure all compliance documents, builds, artifacts, and sign-off are obtained before deployment.
+        - ITIL Change Management, experience in coordinating the deliverables from the QA team to production.
+        - Successfully worked with the change management team to ensure all compliance documents, builds, artefacts, and sign-offs were obtained before deployment.
         - Responsible for the first POC of automation testing with C# and Selenium to test web applications.
-        - Responsible for the management and configuration of tests environments.
+        - Responsible for the management and configuration of test environments.
       technologies:
         - name: Postman
         - name: Soap UI
@@ -233,16 +259,16 @@ history:
       location: Porto Alegre, Brazil  
       time: 07-2013 – 11-2014
       description: |
-        - Outsourcing at: Bank Banrisul - Software Quality Implementation. 
+        - Outsourcing at Bank Banrisul - Software Quality Implementation. 
         - Test leader of the Financials Services and Core Banking team. 
-        - Responsible for allocation the QA team members through the backlog tasks.
+        - Responsible for allocation of the QA team members through the backlog tasks.
         - Support the HR area in interviews and evaluation from candidates.
         - Test Project Management (Planning and Estimation) 
         - Test Backlog management
         - Planning, specification, and execution of scenarios, testing plans and test cases. 
-        - Responsible for the management and configuration of tests environments (servers, ATM, TM, accounts, cards, others.)
-        - Responsible for monitoring and maintaining quality and compliance target for software testing
-        - Responsible for attending requirements meetings and support business user
+        - Responsible for the management and configuration of test environments (servers, ATM, TM, accounts, cards, others.)
+        - Responsible for monitoring and maintaining quality and compliance targets for software testing
+        - Responsible for attending requirements meetings and supporting business user
         - Test data generation.    
       technologies:
        - name: Mantis
@@ -256,12 +282,12 @@ history:
       description: |
         - Software development of solutions with IBM Lotus Notes and Domino Software.
         - Software development focused on Java-web, using Java/JSP and Javascript.
-        - User-Interfaces development and software modeling.
-        - Development and maintenance of workflows applications using LotusScript and Visual Basic.
-        - Business analysis to support vendor of IBM software such as IBM Content Collector, IBM eDiscovery Solutions, responsible for training and mentoring (knowledge transfer) to clients.
+        - User-interface development and software modelling.
+        - Development and maintenance of workflow applications using LotusScript and Visual Basic.
+        - Business analysis to support vendors of IBM software such as IBM Content Collector, and IBM eDiscovery Solutions, responsible for training and mentoring (knowledge transfer) to clients.
         - Internal process work, creation, and maintenance of commercial and administrative reports from the company (CRM, payroll, hours management, etc.)
         - Tester (designated developer) 
-          - Planning, Design, specification, and execution of scenarios, testing plan and test cases, Functional Testing, Usability Testing, Acceptance Testing, Interface and security tests. Automation testing (migration e-mails to the cloud).
+          - Planning, Design, specification, and execution of scenarios, testing plans and test cases, Functional Testing, Usability Testing, Acceptance Testing, Interface and security tests. Automation testing (migration e-mails to the cloud).
           -	Document / Artifact creation and maintenance (scenarios, test cases, plans, metrics, and estimates) using Quickr with SVN as the repository.
           - Elaboration of Defect Reports, Metric Reports, and Incidents Reports. 
       technologies:
