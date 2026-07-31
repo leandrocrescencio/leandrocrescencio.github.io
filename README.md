@@ -36,6 +36,21 @@
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 
+## Development
+
+This site is built with [Jekyll](https://jekyllrb.com/) 4.3.
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+The site will be available at `http://localhost:4000`.
+
+## Deployment
+
+The site is deployed to GitHub Pages via the [`pages.yml`](.github/workflows/pages.yml) GitHub Actions workflow, which builds the Jekyll site and publishes it on every push to `master`.
+
 <br />
 <br />
 
