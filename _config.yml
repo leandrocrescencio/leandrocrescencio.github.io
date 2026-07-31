@@ -14,3 +14,4 @@ repository: leandrocrescencio/leandrocrescencio.github.io
 
 sass:
   style: compact
+  quiet_deps: true

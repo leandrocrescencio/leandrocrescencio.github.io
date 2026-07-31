@@ -16,7 +16,7 @@ bio:
 summary:
   title: Profile
   description: |
-    Quality Assurance Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 10+ years of experience working with automated and manual testing, from specification to execution.
+    Quality Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 12+ years of experience working with automated and manual testing, from specification to execution.
     Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager and Team Foundation Server. 
     Bug analytic reports and root cause analysis for metrics and team improvements.
     Ability to work onsite or remotely in global distributed team environments.
@@ -28,14 +28,14 @@ history:
   roles:
     
     - position: Senior QA Engineer
-      company: SABER.TECH
+      company: LOTTOLAND
       location: Málaga, Spain
-      time: 07-2023 – Present
+      time: 11-2020 – 06-2026
       description: |
-         - Part of the Lotto Group, member of Lottoland
-         - Working with self-contained systems
-         - Back-end automation for unit and integration tests
-         - Test and Defect Project Management
+         - Part of an agile platform team, helping build and maintain full back-end self-contained systems that support the whole company with lottery features, for external and internal use.
+         - Developed and maintained automated test suites covering critical business flows across dozens of microservices, reducing manual regression effort through automated validation integrated into CI/CD pipelines.
+         - Worked with distributed and event-driven architectures using Kafka and AWS, ensuring system reliability and service integration quality.
+         - Helped define automation strategies and quality practices for microservice-based platforms, improving delivery confidence across multiple teams.
       technologies:
         - name: Java
         - name: Selenium Webdriver
@@ -51,44 +51,18 @@ history:
         - name: AWS
         - name: Postman
         - name: MongoDB
-        
-    - position: Senior QA Engineer
-      company: CIKLUM
-      location: Málaga, Spain
-      time: 11-2020 – 07-2023
-      description: |
-         - Part of the Lottoland team (Lotteries Domain)
-         - Working with self-contained systems
-         - Back-end automation for unit and integration tests
-         - Test and Defect Project Management
-      technologies:
-        - name: Java
-        - name: Selenium Webdriver
-        - name: Grid
-        - name: JUnit
-        - name: GIT
-        - name: Maven
-        - name: TeamCity
-        - name: Jira
-        - name: Confluence
-        - name: DataDog
-        - name: Kafka
-        - name: Postman
-        - name: MongoDB
-        - name: AWS
 
     - position: Senior QA Automation Engineer
       company: INTEGRITAS SOLUTIONS, INC
       location: Remote
       time: 11-2019 – 10-2020
       description: |
-         - Working remotely along with teams from the US (TailWind and Periscope Holdings)
+         - Working remotely for an US group (TailWind and Periscope Holdings) supporting the BID system used in City Halls and Governmental institutions.
          - Responsible for developing automated test cases in Java using Cucumber, Selenium Webdriver, and Karate.
          - Back-end and UI test automation
-         - Using Jenkins for Continuous Integration (DigitalOcean + Docker)
-         - Test and Defect Project Management.
-         - Provide technical support to the team by including sharing knowledge on automation features.
-         - Acting in security testing projects using OWASP (ZAP).
+         - Jenkins for CI/CD with DigitalOcean and Docker to handle UI test suites.
+         - Technical support on automation features for other QAs
+         - Stress/Penetration tests using OWASP (ZAP)
       technologies:
         - name: Cucumber
         - name: Java
@@ -115,9 +89,7 @@ history:
       description: |
          - Working remote along teams from US (Digital Product Labs) and Australia (Tabcorp). 
          - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS and Groovy
-         - Automation tests using Java and Selenium Webdriver.
-         - Back-end and UI tests.
-         - Test and Defect Project Management.
+         - Designed and implemented an automation framework using Java and Selenium, supporting test execution and regression coverage for the Play4Purpose platform.
       technologies:
         - name: Java
         - name: Selenium Webdriver
@@ -142,12 +114,7 @@ history:
       description: |
          - Acting as a Test Architect for the software projects inside the company.
          - Assisting in the definition of the strategy for test teams, implementation of testing tools and automation tools. Clients mostly from the financial sector.
-         - Specification of Plans, Scenarios, and Test Cases. 
-         - Creation and execution of software tests. 
-         - Automation tests for SOA/Rest services, and UI automation.
-         - Test and Defect Project Management.
-         - Planning and estimation of demands. 
-         - Automation testing using Soap UI and RestAssured (for backend and integration)
+         - Automation for APIs  services with Java/Soap/Jmeter.
          - Planning and execution of performance and load tests.
       technologies:
         - name: Java
@@ -161,22 +128,19 @@ history:
         - name: Maven
         - name: Jira
 
-
     - position: QA Automation Analyst
       company: DBSERVER
       location: Porto Alegre, Brazil
       time: 10-2016 – 01-2019
       description: |
          - Outsourcing at Bank Sicredi (Accounts Agile Team)
-         - Agile Methods, SCRUM, LEAN, Kanban and all related ceremonies.
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for applications developed in Clipper and Java (Web and Services). 
-         - Automation tests for SOA/Rest services, and automation of functional tests for the financial core system and some WEB applications.
-         - Test and Defect Project Management.
-         - Planning and estimation of demands.
-         - Automation testing in Java (for clipper applications).
-         - Automation testing in Java plus Selenium (for web applications).
-         - Maintenance for the RFT framework. 
-         - Automation testing using Soap UI and RestAssured (for backend and integration)
+         - Worked in Agile, Lean, SCRUM, and Kanban environments supporting core banking systems and web applications.
+         - Designed and maintained automation frameworks for backend, integration, and UI testing using Java, Selenium, RestAssured, SoapUI, Sikuli, and AutoIt.
+         - Automated validation of SOA/REST services and financial core system workflows.
+         - Participated in planning, estimation, defect management, and quality engineering processes across multiple agile teams.
+         - Acted as automation coach within DevOps initiatives, helping new teams adopt automated testing practices.
+         - Built a complete automation framework for legacy Clipper applications using Java-based tooling.
+
       technologies:
         - name: Java
         - name: Soap UI
@@ -206,17 +170,14 @@ history:
       location: Porto Alegre, Brazil
       time: 11-2015 – 10-2016
       description: |
-        - Outsourcing at Dell DFS (Dell Financial Services) 
-        - Risk Management - Credit and Fraud Team
-        - Agile Methods, SCRUM, SAFe and all related ceremonies.
-        - Specification of Plans, Scenarios and Test Cases. Creation and execution of software tests for applications developed in .Net, PL/SQL, Oracle, SOAP e REST.
-        - Expertise with the Test Lead role, for some legislative projects.
-        - Support the UAT team for post-deployment issues.
-        - Able to work to a high degree of detail
-        - Test and Defect Project Management.
-        - Planning and estimation of demands.
-        - Automation testing in C# (SOA services integration). 
-        - Maintenance into the Soap UI automation and migrate it to C#.
+        - Outsourcing at Dell DFS (Dell Financial Services) (Credit and Fraud Team)
+        - Worked in Agile/SCRUM and SAFe environments supporting financial and fraud prevention systems.
+        - Designed and executed backend and integration tests for .NET, Oracle PL/SQL, SOAP, and REST applications.
+        - Developed automation solutions in C# for SOA service integration testing.
+        - Led quality initiatives for regulatory and legislative projects, acting as Test Lead in critical deliveries.
+        - Supported UAT activities and post-deployment validation processes.
+        - Maintained and modernized SoapUI automation solutions by migrating integrations to C# automation frameworks.
+
       technologies:
         - name: C#
         - name: Groovy
@@ -236,8 +197,7 @@ history:
       location: Porto Alegre, Brazil  
       time: 11-2014 – 11-2015
       description: |
-        - Technical Test Team Leader. 
-        - Responsible for the allocation of QA members through the backlog tasks. 
+        - Technical Test Team Leader, responsible for QA allocation through the backlog. 
         - Planning, Design, specification, and execution of scenarios, testing plans and test cases for applications developed in GeneXus, .Net, SQL Server, PostgreSQL, SSiS/ETL, CSS, JavaScript, SOAP, Telecom projects (URA and AVAYA), Information Security and networks projects. 
         - Test and Defect Project Management. 
         - ITIL Change Management, experience in coordinating the deliverables from the QA team to production.
@@ -346,14 +306,6 @@ skills:
       percentage: 90
     - name: MongoDB
       percentage: 60
-  other:
-    - name: Windows 10
-    - name: Linux Ubuntu
-    - name: Gradle
-    - name: Maven
-    - name: JIRA
-    - name: Scrum
-    - name: SAFE
 
 awards:
   - name: ISTQB-CTFL
@@ -373,15 +325,8 @@ languages:
     proficiency: Native
   - name: English
     proficiency: Professional
-interests:
-  - name: Animals
-    icon: fas fa-paw
-  - name: Music
-    icon: fas fa-drum
-  - name: Cooking
-    icon: fas fa-utensils
-  - name: Beer
-    icon: fas fa-beer
+  - name: Spanish
+    proficiency: Professional
 organizations:
   - name: ISTQB
     link: https://www.istqb.org
