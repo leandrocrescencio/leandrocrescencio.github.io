@@ -1,0 +1,14 @@
+{
+  "name": "Leandro Crescencio - Senior Quality Engineer",
+  "short_name": "Leandro Crescencio",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#328998",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

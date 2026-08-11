@@ -1,26 +1,21 @@
 bio:
   name: Leandro Crescencio
-  title: QA Automation Engineer
+  title: Senior Quality Engineer
   avatar: profile.jpg
   email: leandrocrescencio@gmail.com
   telephone: +34 666 022 346
   website: leandrocrescencio.github.io/
   linkedin: leandrocrescencio
   github: leandrocrescencio
-  gitlab: 
-  twitter: crescemoreira
-  facebook: leandrocrescencio
   skype: leandrocorey
-  stackoverflow: 
 summary:
   title: Profile
   description: |
-    Quality Engineer working with Testing/Developing/Devops and Agile Methodologies. Professional with 12+ years of experience working with automated and manual testing, from specification to execution.
-    Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager and Team Foundation Server. 
-    Bug analytic reports and root cause analysis for metrics and team improvements.
-    Ability to work onsite or remotely in global distributed team environments.
+    Senior Quality Engineer with 12+ years of experience designing automation frameworks, quality strategies, and scalable testing solutions for fintech, banking, and iGaming platforms.
+    Strong expertise in backend quality engineering, API and distributed systems testing, CI/CD quality gates, and cloud-native architectures using Java, Kotlin, Spring Boot, Kafka, AWS, Docker, and Kubernetes.
+    Experienced in mentoring engineers, driving automation adoption, and helping cross-functional teams deliver reliable software at scale.
+    Able to work as an independent and in global distributed team environments.
     Highly motivated and enthusiastic in the Agile/Scrum and Iterative software development process.
-    Solid experience in teams from the financial sector.
 
 history:
   title: Experience
@@ -269,24 +264,26 @@ history:
 skills:
   testing:
     - name: Selenium WebDriver
-      percentage: 98
+      percentage: 90
     - name: RestAssured
-      percentage: 98
+      percentage: 80
     - name: Cucumber
       percentage: 98
     - name: Soap UI
       percentage: 98
-    - name: Cypress.io
-      percentage: 50
-    - name: Appium
-      percentage: 50
+    - name: Cypress
+      percentage: 75
+    - name: Playwright
+      percentage: 60
   languages:
     - name: Java
       percentage: 90
     - name: C#
-      percentage: 70
+      percentage: 60
     - name: Javascript
-      percentage: 70
+      percentage: 80
+    - name: Typescript
+      percentage: 80
     - name: Groovy
       percentage: 55
     - name: Ruby
@@ -295,16 +292,20 @@ skills:
     - name: Jenkins
       percentage: 80
     - name: TeamCity
-      percentage: 70 
+      percentage: 70
+    - name: GitLab
+      percentage: 90
+    - name: Github
+      percentage: 90
   database:
     - name: Oracle
-      percentage: 90
+      percentage: 80
     - name: SQL Server
-      percentage: 90
+      percentage: 80
     - name: MySql
-      percentage: 90
+      percentage: 80
     - name: MongoDB
-      percentage: 60
+      percentage: 80
 
 awards:
   - name: ISTQB-CTFL

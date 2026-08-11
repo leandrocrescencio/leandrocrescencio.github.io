@@ -1,4 +1,4 @@
-title: Leandro Crescencio - QA Automation Engineer
+title: Leandro Crescencio - Senior Quality Engineer
 
 # Theme primary chooses
 cello: &cello "#434E5E"
@@ -9,7 +9,7 @@ governor_bay: &governor_bay "#59578E"
 cosmic: &cosmic "#80425F"
 
 theme_color: *scooter
-description: Leandro Crescencio - QA Automation Engineer - Resume
+description: Leandro Crescencio - Senior Quality Engineer
 repository: leandrocrescencio/leandrocrescencio.github.io
 
 sass:
