@@ -13,14 +13,16 @@
 
 
 
+@use "sass:color";
+
 // Define theme colour scheme
 $theme-color-primary: {{ site.theme_color }};
 
-$theme-text-color-primary: #434E5E;
-$theme-text-color-secondary: lighten($theme-text-color-primary, 10%);
-$theme-text-color-light: lighten($theme-text-color-primary, 40%);
-$theme-border-color:  lighten($theme-text-color-primary, 10%);
-$theme-divider-color: lighten($theme-text-color-primary, 10%);
+$theme-text-color-primary: #3E464D;
+$theme-text-color-secondary: color.adjust($theme-text-color-primary, $lightness: 10%);
+$theme-text-color-light: color.adjust($theme-text-color-primary, $lightness: 40%);
+$theme-border-color:  color.adjust($theme-text-color-primary, $lightness: 10%);
+$theme-divider-color: color.adjust($theme-text-color-primary, $lightness: 10%);
 $theme-bg-light: #F7F8FA;
 $theme-bg-dark: $theme-text-color-primary;
 
@@ -52,7 +54,7 @@ body {
 }
 
 .theme-bg-primary-darken {
-	background-color: darken($theme-color-primary, 20%);
+	background-color: color.adjust($theme-color-primary, $lightness: -20%);
 }
 
 a.theme-btn-on-bg, .theme-btn-on-bg {
@@ -115,6 +117,7 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
 }
 .resume-social {
 	font-size: 0.875rem;
+	color: rgba(256, 256, 256, 0.6);
 
 	.fa-container {
 		font-size: 1rem;
@@ -140,7 +143,7 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
 		bottom: 0;
 		width: 100%;
 		height: 1.5px;
-		background: lighten($theme-text-color-primary, 30%);
+		background: color.adjust($theme-text-color-primary, $lightness: 30%);
 	}
 }
 
@@ -155,9 +158,9 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
 	&:before {
 		content: "";
 		display: inline-block;
-	    width: 3px;
+	    width: 2px;
 	    height: 100%;
-	    background: lighten($theme-color-primary, 40%);
+	    background: color.adjust($theme-color-primary, $lightness: 40%);
 	    left: 6px;
 	    top: 4px;
 	    position: absolute;
@@ -173,7 +176,7 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
 		top: 3px;
 		width: 15px;
 		height: 15px;
-		border: 4px solid lighten($theme-color-primary, 10%);
+		border: 3px solid color.adjust($theme-color-primary, $lightness: 40%);
 		background: white;
 		@include border-radius(50%);
 

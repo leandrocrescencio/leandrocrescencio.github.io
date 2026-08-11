@@ -8,7 +8,7 @@ scooter: &scooter "#328998"
 governor_bay: &governor_bay "#59578E"
 cosmic: &cosmic "#80425F"
 
-theme_color: *cello
+theme_color: *scooter
 description: Leandro Crescencio - QA Automation Engineer - Resume
 repository: leandrocrescencio/leandrocrescencio.github.io
 
