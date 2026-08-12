@@ -24,18 +24,6 @@
 ## CV-Resume 
  Using the Pillar Resume Template as a Jekyll site for Github Pages
 
-*  Fully Responsive
-*  HTML5 + CSS3
-*  Built on Bootstrap 4
-*  **SCSS** source files included
-*  6 Colour Schemes
-*  1000+ FontAwesome 5 icons
-*  Compatible with all modern browsers
-
-## Credits
-- [Bootstrap](http://getbootstrap.com/)
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
-
 ## Development
 
 This site is built with [Jekyll](https://jekyllrb.com/) 4.3.
@@ -51,7 +39,6 @@ The site will be available at `http://localhost:4000`.
 
 The site is deployed to GitHub Pages via the [`pages.yml`](.github/workflows/pages.yml) GitHub Actions workflow, which builds the Jekyll site and publishes it on every push to `master`.
 
-<br />
 <br />
 
 ## Feel free to fork this and change at your own :)
